@@ -19,5 +19,5 @@ Yes I know there's lot more stuff I can do to make this better, I'm just lazy. l
 I also have no idea why tf u r here reading this or stalking at me, but sure whatever. 
 
 More links: 
-https://www.unipile.com/linkedin-api-a-comprehensive-guide-to-integration/
+https://www.unipile.com/linkedin-api-a-comprehensive-guide-to-integration/ \n
 https://developer.unipile.com/reference/linkedincontroller_search
