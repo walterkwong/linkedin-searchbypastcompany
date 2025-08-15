@@ -48,6 +48,6 @@ for i in range(pages):
 if all_results:
     df = pd.DataFrame(all_results)
     df = df[col_names]
-    df.to_csv('api_search_results2.csv', index=False)
+    df.to_csv('api_search_results.csv', index=False)
 else:
     print("No results found.")
