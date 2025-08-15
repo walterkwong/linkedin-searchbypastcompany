@@ -18,6 +18,6 @@ There are 5 parameters you will have to fill in on `config.py` before working it
 Yes I know there's lot more stuff I can do to make this better, I'm just lazy. lmk if u r interested. 
 I also have no idea why tf u r here reading this or stalking at me, but sure whatever. 
 
-More links: 
+More links: \
 https://www.unipile.com/linkedin-api-a-comprehensive-guide-to-integration/ \
 https://developer.unipile.com/reference/linkedincontroller_search
